@@ -5,5 +5,6 @@ public class TestConflict {
 		System.out.println("first conflict");
 		System.out.println("third conflict");
 		System.out.println("forth conflict");
+		System.out.println("fifth conflict");
 	}
 }
