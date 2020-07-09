@@ -7,5 +7,6 @@ public class TestConflict {
 		System.out.println("forth conflict");
 		System.out.println("fifth conflict");
 		System.out.println("sixth conflict");
+		System.out.println("seven conflict");
 	}
 }
