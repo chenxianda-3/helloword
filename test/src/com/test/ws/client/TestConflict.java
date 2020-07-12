@@ -13,8 +13,13 @@ public class TestConflict {
 		System.out.println("nighth conflict");
 		System.out.println("eleven conflict");
 		System.out.println("twtheven conflict");
+<<<<<<< HEAD
         System.out.println("thirdth conflict");
         System.out.println("fifth conflict");
+=======
+                System.out.println("thirdth conflict");
+		System.out.println("fourteen conflict");
+>>>>>>> branch 'master' of https://chenxianda-3@github.com/chenxianda-3/helloword.git
 
 	}
 }
