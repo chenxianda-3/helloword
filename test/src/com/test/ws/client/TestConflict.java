@@ -8,5 +8,6 @@ public class TestConflict {
 		System.out.println("23 conflict");
 		System.out.println("24 conflict");
         System.out.println("25 conflict");
+		System.out.println("26 conflict");
 	}
 }
