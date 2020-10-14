@@ -25,5 +25,6 @@ public class TestConflict2 {
 		System.out.println("42 conflict");
 		System.out.println("41 conflict");
 		System.out.println("43 conflict");
+		System.out.println("44 conflict");
 	}
 }
